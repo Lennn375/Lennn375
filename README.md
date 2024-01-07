@@ -1,29 +1,27 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="le wagon image" src="https://info.lewagon.com/hubfs/Logo_Red%26White-3.png" style="width:20>
-</picture>
+![hiking image](https://img.static-rmg.be/a/view/q75/w/h/1955784/teaser-jpg.jpg)
 
-##About me
-Hi Giters! I am a junior developper fresh out of a 9 week intesive coding bootcamp (at le Wagon Montreal). I am super exited to dive deep into the tech world. So many things to learn
+🖐Hi Giters!
+<br>
+Read about me here!⤵
+<br>
+Junior developper passionnate about learning and discovering! I just finished the 9 week intensive coding bootcamp at le Wagon Montréal. I am super exited to dive deep into the tech world!
 
-Here are some skills I aquired during the bootcamp:
-|| Skills |
-|---:| -------|
-|   ~| Ruby on Rails|
-|   ~| Java Script |
-|   ~| SCSS, HTML, Bootstrap|
-|   ~| Heroku |
-|5|SQL|
+<details> 
+ <summary> Here are some skills I aquired during the bootcamp </summary>
+ 
+ || Skills |
+ |---:| -------|
+ |   ~| Ruby on Rails|
+ |   ~| Java Script |
+ |   ~| SCSS, HTML, Bootstrap|
+ |   ~| Heroku |
+ |~|SQL|
+ 
+</details>
+<br>
 
-<details>
-  <summary> </summary>
-<details>
-  
-- 🔭 I’m currently working on poilishing my final project at le Wagon: Ecipes Edge
-- 🌱 I’m currently learning by reading and trying to analyze code
+- 🌱 I'm currently going through the challenges I had during the bootcamp to reenforce my skills
 - 👯 I’m looking to collaborate on any projects in which I have a real interest: Do you have a project regarding sports, food, health, environment or traveling??
 - 🤔 I’m interested in any kind of help someone can offer!
 - 📫 How to reach me: lgagnon22@hotmail.com
 - ⚡ Fun fact: I hate walking but I love hicking. Does it make sense?
--->
